@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Amir FF",
+        "device": "POCO X3 Pro",
+        "profile": "https://i.supaimg.com/b91648d3-fce0-45f7-9c27-9b1c3b05f343.jpg",
+        "general": 198,
+        "redDot": 180,
+        "scope2": 145,
+        "scope4": 120,
+        "sniper": 80,
+        "freeLook": 90
+    },
+    {
+        "name": "Sir Black",
+        "device": "Samsung A52",
+        "profile": "https://i.imgur.com/YOURIMAGE2.jpg",
+        "general": 88,
+        "redDot": 160,
+        "scope2": 135,
+        "scope4": 100,
+        "sniper": 92,
+        "freeLook": 75
+    },
+    {
+        "name": "Reza Pro",
+        "device": "iPhone 11",
+        "profile": "https://i.imgur.com/YOURIMAGE3.png",
+        "general": 100,
+        "redDot": 190,
+        "scope2": 160,
+        "scope4": 135,
+        "sniper": 110,
+        "freeLook": 95
+    }
+]
